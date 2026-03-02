@@ -1,0 +1,5 @@
+{
+  "name": "VogueAI - Fashion Design Generator",
+  "description": "An AI-powered fashion studio that generates clothing designs from text prompts and finds similar affordable products online.",
+  "requestFramePermissions": []
+}
